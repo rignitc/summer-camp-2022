@@ -58,6 +58,7 @@ Make changes in Windows drive
 - `sudo ntsfix /dev/sda5` : Give edit access to windows directory
 
 
+
 - `sudo apt install tldr` or `sudo apt install neofetch`
 - `tldr chmod` : Give a small manual read for the command chmod
 - `dpkg -i google-chrome-stable.deb` : Install a .deb file (wont check missing dependencies)
