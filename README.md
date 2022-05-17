@@ -52,4 +52,9 @@ r w x : read wite execute
 - `kill 15187` : Kill arduino process
 - `sudo apt install htop` : Install application called htop (can kill process , like task manager in windows)
 
+Make changes in Windows drive
+
+- Unmount windows drive
+- `sudo ntsfix /dev/sda5` : Give edit access to windows directory
+
 
